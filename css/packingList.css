@@ -8,6 +8,11 @@
     color:white;
     padding-top:50px;
 }
+.show {
+    float:none;
+    clear: both;
+    margin-bottom: 10px;
+}
 body {
 	background: green;
 	border: #ffffff;
